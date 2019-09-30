@@ -4,7 +4,7 @@ $(document).ready(function){
 
     
 // Create function to make buttons to be added to page
-function createBottons(arrayToUse, classToAdd, areaToAddTo) {
+function createButtons(arrayToUse, classToAdd, areaToAddTo) {
    $(areaToAddTo).empty();
 
    
